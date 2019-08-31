@@ -1,4 +1,11 @@
-## Welcome to Scott Winner's website
+# Scott Winner's First CS193 Homework
+- Learning Tools
+- Making code
+- Making friends
+- Fun
+
+
+
 **Aupa Atleti!**
 
 ![Atleti Logo](https://worldsportlogos.com/wp-content/uploads/2018/01/atletico-madrid-logo.png)
@@ -9,6 +16,7 @@
 - Angel Correa
 - Joao Felix
 - Ivan Saponjic
+
 ### Mediocampistas
 - Thomas Lemar
 - **Koke (c)**
@@ -16,6 +24,7 @@
 - _Saul Niguez_
 - Thomas Partey 
 - Vitolo
+
 ### Defensoras
 - _Jose Maria Gimenez_
 - Stefan Savic
@@ -25,6 +34,7 @@
 - Francisco Montero
 - Santiago Arias
 - Kieren Trippier
+
 ### Porteros
 - _Jan Oblak_
 - Antonio Adan
